@@ -1,5 +1,7 @@
 # SATV-BLiF
 
+Zhengyu Zhang, Shishun Tian, Wenbin Zou, Yuhang Zhang, Luce Morin, and Lu Zhang.
+
 The code of our proposed SATV-BLiF metric in ICIP2023 paper "Blind Quality Assessment of Light Field Image Based on Spatio-Angular Textural Variation". Please refer to our [paper](https://ieeexplore.ieee.org/abstract/document/10222216) for details.
 
 ### Run demo
