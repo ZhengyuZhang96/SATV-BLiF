@@ -25,4 +25,4 @@ Please run:
 ```
 
 ## Contact
-Welcome to raise issues or email to [zhengyu.zhang@insa-rennes.fr](zhengyu.zhang@insa-rennes.fr) for any question.
+Welcome to raise issues or email to [zhengyuzhang@gzhu.edu.cn](zhengyuzhang@gzhu.edu.cn) for any question.
